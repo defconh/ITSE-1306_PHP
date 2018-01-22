@@ -1,7 +1,7 @@
 <?php
 /*Hayden Ramsey
 ITSE 1306
-May 26th, 2017
+January 22nd, 2018
 Chapter 4, Hello Conditionals*/
 
 $studentName = "Hayden Ramsey";
