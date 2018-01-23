@@ -1,7 +1,7 @@
 <?php
 /*Hayden Ramsey
 ITSE 1306
-May 30th, 2017
+January 23rd, 2018
 Chapter 5, Hello Functions*/
 
 function make_upper($input)
