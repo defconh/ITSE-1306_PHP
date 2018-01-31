@@ -2,7 +2,7 @@
 /*
 Hayden Ramsey
 ITSE 1306
-2017.06.22
+2018.1.31
 Chapter 7 PHP code assignment
 */
 $text_contents = "";
